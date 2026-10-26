@@ -35,4 +35,4 @@ StudentWallet is a simple web application designed for university students to ma
 | 3 | Yosef Mulugeta | 0703/17 |
 | 4 | Bisrat Getachew | 0169/17 |
 | 5 | Bereket Haile | 0141/17 |
-| 6 | Workneh Shumie | 2010/17 |
+| 6 | Werkneh Shumie | 2010/17 |
