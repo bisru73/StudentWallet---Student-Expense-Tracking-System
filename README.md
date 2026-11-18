@@ -9,7 +9,7 @@ Date: October 14, 2026 (E.C.)
 ---
 
 ## I. Problem Statement
-Students often have difficulty managing their money and tracking their daily expenses. They spend money on different things, such as food, transportation, internet, and educational materials, but they may not record how much they spend. As a result, they can lose track of their money, exceed their budgets, and struggle to understand where their money goes. This makes it difficult for students to manage their finances effectively and save money for future needs.
+Students often have difficulty managing their money and tracking their daily expenses. They spend money on different things, such as food, transportation, internet, and educational materials, but they may not record how much they spend. As a result, they can lose track of their money, exceed their budgets, and struggle to understand where their money goes. This makes it difficult for students to manage their finances efficiently and save money for future needs.
 
 ---
 
