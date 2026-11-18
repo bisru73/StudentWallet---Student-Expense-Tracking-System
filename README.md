@@ -1,4 +1,4 @@
- StudentWallet — Student Expense Tracking System
+# StudentWallet — Student Expense Tracking System
 
 Department of Software Engineering  
 Course: Software Engineering Tools and Practice  
