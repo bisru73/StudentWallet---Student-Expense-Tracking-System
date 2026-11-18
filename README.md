@@ -54,4 +54,4 @@ To be determined by the project team.
 | 3 | Yosef Mulugeta | 0703/17 | |
 | 4 | Bisrat Getachew | 0169/17 | @bisru73 |
 | 5 | Bereket Haile | 0141/17 | |
-| 6 | Werkneh shumie | 2010/17 | | [@shumiewerkneh-spec]
+| 6 | Werkneh shumie | 2010/17 | [@shumiewerkneh-spec](https://github.com/shumiewerkneh-spec)
