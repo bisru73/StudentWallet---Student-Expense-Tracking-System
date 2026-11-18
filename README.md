@@ -50,7 +50,7 @@ To be determined by the project team.
 | No. | Name | Student ID | GitHub Username |
 | :--- | :--- | :--- | :--- |
 | 1 | Dagim Arega | 0179/17 | |
-| 2 | Thomas Mulugeta | 4911/17 | |jo
+| 2 | Thomas Mulugeta | 4911/17 | |
 | 3 | Yosef Mulugeta | 0703/17 | |
 | 4 | Bisrat Getachew | 0169/17 | @bisru73 |
 | 5 | Bereket Haile | 0141/17 | |
