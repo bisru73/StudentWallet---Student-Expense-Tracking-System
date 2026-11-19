@@ -20,12 +20,12 @@ StudentWallet is a simple web application designed for university students to ma
 
 ### Key Features
 
-* 👤 User Accounts: Student registration and login to manage personal financial information.
-* 💳 Income & Expense Tracking: Record daily income sources and expenses easily.
-* 🏷️ Expense Categorization: Organize spending into categories (Food, Transportation, Internet, Educational Materials, etc.).
-* 🧮 Balance Calculation: Automatically computes remaining balance (Total Income - Total Expenses).
-* 📊 Monthly Summary: Overview of monthly total income, expenses, and remaining balance.
-* 🎯 Budget Management: Set budget limits and track spending to prevent overspending.
+*  User Accounts: Student registration and login to manage personal financial information.
+*  Income & Expense Tracking: Record daily income sources and expenses easily.
+*  Expense Categorization: Organize spending into categories (Food, Transportation, Internet, Educational Materials, etc.).
+*  Balance Calculation: Automatically computes remaining balance (Total Income - Total Expenses).
+*  Monthly Summary: Overview of monthly total income, expenses, and remaining balance.
+*  Budget Management: Set budget limits and track spending to prevent overspending.
 
 ---
 
@@ -50,7 +50,7 @@ To be determined by the project team.
 | No. | Name | Student ID | GitHub Username |
 | :--- | :--- | :--- | :--- |
 | 1 | Dagim Arega | 0179/17 | |
-| 2 | Thomas Mulugeta | 4911/17 | |
+| 2 | Thomas Mulugeta | 4911/17 |@tommulugeta65-cloud |
 | 3 | Yosef Mulugeta | 0703/17 | |
 | 4 | Bisrat Getachew | 0169/17 | @bisru73 |
 | 5 | Bereket Haile | 0141/17 | |
