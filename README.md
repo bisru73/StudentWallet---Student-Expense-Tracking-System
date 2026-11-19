@@ -51,7 +51,7 @@ To be determined by the project team.
 | :--- | :--- | :--- | :--- |
 | 1 | Dagim Arega | 0179/17 | |
 | 2 | Thomas Mulugeta | 4911/17 |@tommulugeta65-cloud |
-| 3 | Yosef Mulugeta | 0703/17 | |
+| 3 | Yoseph Mulugeta | 0703/17 |@Yoseph-Z-Mulugeta |
 | 4 | Bisrat Getachew | 0169/17 | @bisru73 |
 | 5 | Bereket Haile | 0141/17 | |
 | 6 | Werkneh shumie | 2010/17 | [@shumiewerkneh-spec](https://github.com/shumiewerkneh-spec)
