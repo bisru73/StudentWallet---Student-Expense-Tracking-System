@@ -1,57 +1,15 @@
 # StudentWallet — Student Expense Tracking System
 
-Department of Software Engineering  
-Course: Software Engineering Tools and Practice  
-Section: 3rd-Year Software Engineering, Section A  
-Submitted to: Instructor Girmay A.  
-Date: October 14, 2026 (E.C.)
+StudentWallet is a Java-based web application that helps university students record their income and daily expenses, organize spending by category, calculate their balance automatically, and manage monthly budgets.
+It is a group project for Software Engineering Tools and Practice (SEng5331), Wollo University, Kombolcha Institute of Technology.
 
----
+## Team Members
 
-## I. Problem Statement
-
-Students often have difficulty managing their money and tracking their daily expenses. They spend money on different things, such as food, transportation, internet, and educational materials, but they may not record how much they spend. As a result, they can lose track of their money, exceed their budgets, and struggle to understand where their money goes. This makes it difficult for students to manage their finances efficiently and save money for future needs.
-
----
-
-## II. Solution Overview
-
-StudentWallet is a simple web application designed for university students to manage their personal finances, record income and daily expenses, and gain insight into their spending habits.
-
-### Key Features
-
-*  User Accounts: Student registration and login to manage personal financial information.
-*  Income & Expense Tracking: Record daily income sources and expenses easily.
-*  Expense Categorization: Organize spending into categories (Food, Transportation, Internet, Educational Materials, etc.).
-*  Balance Calculation: Automatically computes remaining balance (Total Income - Total Expenses).
-*  Monthly Summary: Overview of monthly total income, expenses, and remaining balance.
-*  Budget Management: Set budget limits and track spending to prevent overspending.
-
----
-
-## III. Project Objectives
-
-* To help students record and monitor their daily income and expenses.
-* To help students organize expenses into different categories.
-* To calculate available balances automatically.
-* To help students create and manage monthly budgets.
-* To provide monthly financial summaries to support better financial decisions.
-
----
-
-## IV. Technologies Used
-
-To be determined by the project team.
-
----
-
-## V. Project Team
-
-| No. | Name | Student ID | GitHub Username |
-| :--- | :--- | :--- | :--- |
-| 1 | Dagim Arega | 0179/17 | https://github.com/dagmdagm491-netizen|
-| 2 | Thomas Mulugeta | 4911/17 |@tommulugeta65-cloud |
-| 3 | Yoseph Mulugeta | 0703/17 |@Yoseph-Z-Mulugeta |
-| 4 | Bisrat Getachew | 0169/17 | @bisru73 |
-| 5 | Bereket Haile | 0141/17 |@Bereket-Haile | 
-| 6 | Werkneh shumie | 2010/17 | [@shumiewerkneh-spec](https://github.com/shumiewerkneh-spec)
+| No. | Full Name | Student ID | GitHub Username |
+|---|---|---|---|
+| 1 | Dagim Arega | 0179/17 | _add your GitHub username here_ |
+| 2 | Thomas Mulugeta | 4911/17 | _add your GitHub username here_ |
+| 3 | Yoseph Mulugeta | 0703/17 | _add your GitHub username here_ |
+| 4 | Bisrat Getachew (repository owner) | 0169/17 | @bisru73 |
+| 5 | Bereket Haile | 0141/17 | _add your GitHub username here_ |
+| 6 | Werkneh shumie | 2010/17 | _add your GitHub username here_ |
