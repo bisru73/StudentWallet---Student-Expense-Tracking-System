@@ -12,4 +12,4 @@ It is a group project for Software Engineering Tools and Practice (SEng5331), Wo
 | 3 | Yoseph Mulugeta | 0703/17 | |
 | 4 | Bisrat Getachew (repository owner) | 0169/17 | @bisru73 |
 | 5 | Bereket Haile | 0141/17 |  |
-| 6 | Werkneh shumie | 2010/17 |  |
+| 6 | Werkneh shumie | 2010/17 |shumiewerkneh-spec  |
