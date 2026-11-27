@@ -7,9 +7,9 @@ It is a group project for Software Engineering Tools and Practice (SEng5331), Wo
 
 | No. | Full Name | Student ID | GitHub Username |
 |---|---|---|---|
-| 1 | Dagim Arega | 0179/17 | _add your GitHub username here_ |
-| 2 | Thomas Mulugeta | 4911/17 | _add your GitHub username here_ |
-| 3 | Yoseph Mulugeta | 0703/17 | _add your GitHub username here_ |
+| 1 | Dagim Arega | 0179/17 | |
+| 2 | Thomas Mulugeta | 4911/17 |  |
+| 3 | Yoseph Mulugeta | 0703/17 | |
 | 4 | Bisrat Getachew (repository owner) | 0169/17 | @bisru73 |
-| 5 | Bereket Haile | 0141/17 | _add your GitHub username here_ |
-| 6 | Werkneh shumie | 2010/17 | _add your GitHub username here_ |
+| 5 | Bereket Haile | 0141/17 |  |
+| 6 | Werkneh shumie | 2010/17 |  |
